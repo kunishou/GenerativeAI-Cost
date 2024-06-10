@@ -1,5 +1,5 @@
 # GenerativeAI-Cost
-
+This repository summarizes the API costs for generative AI services such as OpenAI, Claude, and Gemini.
 |model|input (1M Tokens)|output (1M Tokens)|memo|
 |:----|:----|:----|:----|
 |GPT-4o|$5.00 |$15.00 | |
