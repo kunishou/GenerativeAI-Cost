@@ -11,9 +11,9 @@
 |Gemini 1.5 Flash|$0.35 |$1.05 |コンテキストキャッシュ未対応（...だけど独自に実装は可能）|
 |Gemini 1.5 Pro|$3.50 |$10.50 | |
 |Mixtral 8x7B|$0.27 |$0.27 |Groq|
+|Mixtral 8x22B|$0.65 |$0.65 |deepinfra|
 |Llama3 70B|$0.59 |$0.79 |Groq / deepinfra|
 |Command-R+|$3.00 |$15.00 |Cohere API|
-|Mixtral 8x22B|$0.65 |$0.65 |deepinfra|
 
 ## Source
 - OpenAI  
