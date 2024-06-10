@@ -8,7 +8,7 @@
 |Claude Opus|$15.00 |$75.00 | |
 |Claude Sonnet|$3.00 |$15.00 | |
 |Claude Haiku|$0.25 |$1.25 | |
-|Gemini 1.5 Flash|$0.35 |$1.05 |コンテキストキャッシュ未対応|
+|Gemini 1.5 Flash|$0.35 |$1.05 |コンテキストキャッシュ未対応（...だけど独自に実装は可能）|
 |Gemini 1.5 Pro|$3.50 |$10.50 | |
 |Mixtral 8x7B|$0.27 |$0.27 |Groq|
 |Llama3 70B|$0.59 |$0.79 |Groq / deepinfra|
