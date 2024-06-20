@@ -6,6 +6,7 @@ This repository summarizes the API costs for generative AI services such as Open
 |GPT-4-Turbo|$10.00 |$30.00 | |
 |GPT-3.5-Turbo|$0.50 |$1.50 | |
 |Claude 3 Opus|$15.00 |$75.00 | |
+|Claude 3.5 Sonnet|$3.00 |$15.00 | |
 |Claude 3 Sonnet|$3.00 |$15.00 | |
 |Claude 3 Haiku|$0.25 |$1.25 | |
 |Gemini 1.5 Pro|$3.50 |$10.50 |128k以内の料金、<br>コンテキストキャッシュ未対応（独自に実装は可能|
