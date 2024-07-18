@@ -3,6 +3,7 @@ This repository summarizes the API costs for generative AI services such as Open
 |model|input (1M Tokens)|output (1M Tokens)|memo|
 |:----|:----|:----|:----|
 |GPT-4o|$5.00 |$15.00 | |
+|GPT-4o mini|$0.15 |$0.60 | |
 |GPT-4-Turbo|$10.00 |$30.00 | |
 |GPT-3.5-Turbo|$0.50 |$1.50 | |
 |Claude 3 Opus|$15.00 |$75.00 | |
@@ -15,6 +16,7 @@ This repository summarizes the API costs for generative AI services such as Open
 |Mixtral 8x7B|$0.27 |$0.27 |Groq|
 |Llama3 70B|$0.59 |$0.79 |Groq / deepinfra|
 |Command-R+|$3.00 |$15.00 |Cohere API|
+|Nemotron-4-340B-Instruct|$4.20 |$14.20 |deepinfra|
 
 ## Source
 - OpenAI  
