@@ -3,6 +3,7 @@ This repository summarizes the API costs for generative AI services such as Open
 |model|input (1M Tokens)|output (1M Tokens)|memo|
 |:----|:----|:----|:----|
 |GPT-4o|$5.00 |$15.00 | |
+|GPT-4o-2024-08-06|$2.50 |$10.00 | |
 |GPT-4o mini|$0.15 |$0.60 | |
 |GPT-4-Turbo|$10.00 |$30.00 | |
 |GPT-3.5-Turbo|$0.50 |$1.50 | |
