@@ -14,7 +14,7 @@ This repository summarizes the API costs for generative AI services such as Open
 |Claude 3 Sonnet|$3.00 |$15.00 | |
 |Claude 3 Haiku|$0.25 |$1.25 | |
 |Gemini 1.5 Pro|$3.50 |$10.50 |128k以内の料金|
-|Gemini 1.5 Flash|$0.35 |$1.05 |128K以内の料金|
+|Gemini 1.5 Flash|$0.075 |$0.30 |128K以内の料金<br>2024-08-12から適用の料金|
 |Nemotron-4-340B-Instruct|$4.20 |$14.20 |deepinfra|
 |gemma-2-27b-it|$0.27 |$10.27 |deepinfra|
 |gemma-2-9b-it|$0.09 |$10.09 |deepinfra|
